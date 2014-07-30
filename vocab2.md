@@ -12,44 +12,41 @@ el último relevamiento	the last survey
 Lo que sí hizo fue	What it did do was
 consolidarlo	consolidate it
 dando la impresión a	giving the impression to
-los legisladores y también a trabajadores que con esta reforma el problema de las empresas recuperadas se resolvía y que ya no era necesario la sanción de leyes de expropiación -->
-·Which· ·yes· ·did· ·was· consolidarlo, ·giving· la ·print· a ·the legislators· ·and also· a ·workers who· ·with this· ·reform· ·the problem of· ·the recovered businesses· se resolvía ·and which· ·was no longer neccesary· ·the passage· ·expropriation laws·.
-
-<!-- ###La realidad muestra que, por el contrario, la precariedad jurídica ha aumentado. -->
-·The· ·reality· ·shows that·, ·on the contrary·, ·precariousness· ·legal· ·has· ·increased·.
-
-<!-- Es este punto donde cobra sentido otro dato aún más preocupante que la escasez de medidas resolutivas de los conflictos por la propiedad y por el cual optamos por reunir en un solo capítulo los datos referidos al conflicto con los del marco legal -->
-·It is· ·this point· ·where· ·charges· ·meaning· ·other data· ·even more· ·worrisome· ·that· ·scarcity· ·of· ·measures· resolutivas ·of· ·conflicts· ·by· ·property· ·and by· ·which· ·we chose to· reunir ·in· ·a single· ·chapter· ·the data· ·referred· al ·conflict· ·with· ·those of the· ·legal framework·.
-
-<!-- ###Nos referimos al ya mencionado aumento de la duración de los conflictos y ocupaciones -->
-Nos referimos al ·already· ·mentioned· ·increase in· ·the duration of· ·conflicts· ·and· ·occupations·.
-
-<!-- ###La judicialización de los conflictos sin apelar a la sanción de leyes de expropiación que acorten los tiempos de las causas por quiebra coloca a los trabajadores en una situación de vulnerabilidad y dependencia de las arbitrariedades y desidia de jueces y síndicos, que al no depender del voto popular no tienen la presión que los legisladores pueden sentir (y que efectivamente sintieron en los momentos de máxima crisis institucional y deslegitimación política en los años posteriores a diciembre de 2001) -->
-·The· judicialización ·of· ·conflicts· ·without· ·appeal· a ·the passage· ·expropriation laws· ·that· acorten ·the times· ·of the· ·causes· ·by· ·bankruptcy· ·places· ·to workers· ·in· ·a situation· ·of· ·vulnerability· ·and· ·dependence on· las arbitrariedades ·and· desidia ·of· ·judges· ·and· ·trustees·, ·that· al no ·depend· ·of the vote· popular ·do not have· la ·pressure· ·that· ·the legislators· ·can· ·feel· (·and· ·that, in fact,· ·felt· ·in· ·the moments· ·of· ·highest· ·institutional crisis· ·and· deslegitimación ·political· ·in the years· ·later· ·as of December of· 2001).
-
-<!-- ###El resultado es que los permisos para producir, el otorgamiento de la continuidad laboral y productiva y, más aún, la resolución de los mecanismos de compensación de acreencias laborales, transitan los lentos y pesados pasillos de los tribunales, mientras los trabajadores ocupan en precarias condiciones sus plantas o esperan las autorizaciones para volver al trabajo -->
-·The result is· ·that· los permisos ·to produce·, ·the provision of· ·labor continuity· ·and· ·productive· ·and·, ·further·, ·the settlement of· ·the mechanisms· ·of· ·compensation· ·of· acreencias ·labor·, transitan los ·slow· ·and· pesados pasillos ·about the· ·courts·, ·while· ·the workers· ·they occupy· ·in· ·precarious· ·conditions· ·their· ·plants· ·or· ·expect· las autorizaciones ·for· ·return to the· ·work·.
-
-<!-- ###De esta manera, los 4 o 5 meses promedio que veíamos hace tan solo 4 años, se han convertido en más de once. -->
-·This way·, los 4 ·or· 5 ·months· ·average· ·that· ·we saw· ·makes· ·only· 4 ·years·, ·have· ·converted· ·in more than· ·eleven·.
-
-<!-- En síntesis, podemos decir en base a estos datos que la reforma de la ley de quiebras no está operando como facilitador de los procesos de recuperación sino estirando los procesos conflictivos al judicializar todos los procesos y alargar los conflictos, sin resolverlos, por lo general, a favor de los trabajadores -->
-·In· ·synthesis·, ·we can· ·to say· ·based on· ·these data· ·that· ·the reform· ·of· ·the bankruptcy law· ·isn't· ·operating· ·like· ·facilitator· ·of· ·the processes· ·of· ·recovery· ·but· estirando ·the processes· ·conflicting· al judicializar ·all the processes· ·and· alargar ·conflicts·, ·without· resolverlos, ·generally·, ·in favor· ·of the workers·.
-
-<!-- ###Además, parece haber producido el efecto de obturar la vía de resolución legislativa (política) de los conflictos al crear la falsa idea de que el problema de las recuperadas “se resolvió” con la reforma de la ley de quiebras -->
-·Besides·, ·seems to have· ·produced· ·the effect of· obturar ·the path of· ·resolution· ·legislative· (·political·) ·of· ·conflicts· al ·create· la falsa idea ·that· ·the problem of· las ·recovered· “se ·resolved·” ·with· ·the reform· ·of· ·the bankruptcy law·
-
-<!-- Capítulo 5 -->
-·Chapter· 5
-
-<!-- LA PRODUCCIÓN -->
-LA PRODUCCIÓN
-
-<!-- Al analizar en este trabajo las ERT que iniciaron sus procesos en los últimos tres años y medio, vale la pena aclarar nuevamente que la información de la muestra (31 casos) no la consideramos en relación al total del universo de empresas recuperadas del país (como en los anteriores relevamientos) sino a las que responden a esta demarcación temporal -->
-Al ·to analyze· ·in· ·this work· ·the BRW· ·that· ·started· ·their· ·processes· ·in· ·the last· ·three years· ·and a half·, ·it's worthwhile· ·clarify· ·newly· ·that· ·information about· ·the sample· (31 ·cases·) no la ·consider· ·in relation to the· total ·of the universe· ·of· ·recovered businesses· ·of the country· (·like in· ·the previous· ·surveys·) ·but· a ·those that· ·respond to· ·this· demarcación ·temporary·.
-
-<!-- ###Esta aclaración es más importante aún tenerla en cuenta en este capítulo, dedicado a las empresas recuperadas en tanto unidades productivas, por el reducido tiempo de producción que los casos tomados en cuenta llevan al momento de la encuesta -->
-·This· ·clarification· ·is· ·more important still· ·have it· ·in· ·account· ·in this· ·chapter·, ·dedicated to· ·the recovered businesses· ·while· ·units· ·productive·, ·by· el ·reduced· ·time· ·of production· ·that· ·the cases· ·taken· ·in· ·account· ·they take· ·at the moment· ·about the· ·survey·.
+que con esta reforma	that with this reform
+se resolvía	was being resolved
+la sanción de	the passage of
+La realidad	Reality
+la precariedad jurídica	legal precariousness
+la escasez de	the scarcity of
+medidas resolutivas	strong measures
+los conflictos por la propiedad	property conflicts
+Nos referimos al	We refer to the
+La judicialización de	The judicialization of
+sin apelar a	without appealing to
+la sanción de	the passage of
+desidia	apathy
+al no depender del	because they don't depend on
+voto popular	popular vote
+la presión que	the pressure that
+deslegitimación política	political deligitimation
+en los años posteriores a	in the years after
+los permisos	permits
+acreencias laborales	back pay
+las autorizaciones	authorizations
+para volver al trabajo	to go back to work
+se han convertido en	have become
+estirando	drawing out
+los procesos conflictivos	conflictive processes
+al judicializar	by judicializing
+alargar	lengthen
+sin resolverlos	without resolving them
+obturar	block
+resolución legislativa	legislative resolution
+al crear	by creating
+la falsa idea de que	the false idea that
+se resolvió	was resolved
+LA PRODUCCIÓN	PRODUCTION
+al momento de	at the time of
 
 <!-- ###De extrapolarse los resultados a todo el conjunto, se daría una información muy alejada de la realidad del universo total, por lo que para eso todavía consideramos válidas las conclusiones del relevamiento de 2010. -->
 ·From· extrapolarse ·the results· a ·the whole· ·big picture·, se ·would give· ·information· ·very· ·distant· ·of reality· ·of the· ·total universe·, ·which is why· ·for that· ·still· ·consider· ·valid· ·the conclusions· ·of the· ·survey· ·of· 2010.
