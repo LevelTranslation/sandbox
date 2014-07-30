@@ -1,13 +1,18 @@
-<!-- ###En esa amplia mayoría, que va del 80 al 90%, la diversidad de situaciones se ve agravada por un efecto que podríamos calificar como negativo, en el que las expectativas generadas por la reforma parecen haber obturado el camino anteriormente habitual de la ley de expropiación -->
-·In that· ·extended· ·majority·, ·which is going· ·of the· 80 al 90%, ·diversity· ·of· ·situations· ·is seen· ·aggravated· ·for a· ·effect· ·that· ·we could· calificar ·like· ·negative·, ·in which· ·expectations· ·created by· ·the reform· ·seem· ·have· obturado ·the path· ·previously· ·habitual· ·about the· ·expropriation law·.
-
-<!-- ###En ese sentido, vemos que no solo las leyes sancionadas son pocas y hay un número algo mayor de proyectos en trámite, sino que hay un número similar que ni siquiera ha optado por intentar conseguirla -->
-·In that sense·, ·we see that· ·not only· ·the laws· sancionadas ·are· ·few· ·and· ·there are· ·a number· ·something· ·greater· ·of· ·projects· ·in· ·process·, ·but· ·there· ·a number· similar ·that doesn't even· ·has opted to· ·try· conseguirla.
-
-<!-- ###En este sentido, quizá tampoco sea del todo correcto adjudicarle el descenso en la aprobación de leyes de expropiación a la reforma de la ley de quiebras, pues la tendencia a la disminución ya se observaba en el último relevamiento -->
-·In this sense·, ·perhaps· ·neither· ·is· ·of the· ·everything· ·correct· adjudicarle el ·decline· ·in· ·the approval of· ·expropriation laws· a ·the reform· ·of· ·the bankruptcy law·, ·since· ·the tendency towards· la ·decrease· ·already· se observaba ·in· el ·last· ·survey·.
-
-<!-- ###Lo que sí hizo fue consolidarlo, dando la impresión a los legisladores y también a trabajadores que con esta reforma el problema de las empresas recuperadas se resolvía y que ya no era necesario la sanción de leyes de expropiación -->
+amplia mayoría	large majority
+la diversidad de	the diversity of
+se ve agravada por	is aggravated by
+calificar como	describe as
+las leyes sancionadas	the laws passed
+un número algo mayor de	a somewhat higher number of
+un número similar	a similar number
+conseguirla	get it
+la disminución	the decrease
+ya se observaba	was already observed
+el último relevamiento	the last survey
+Lo que sí hizo fue	What it did do was
+consolidarlo	consolidate it
+dando la impresión a	giving the impression to
+los legisladores y también a trabajadores que con esta reforma el problema de las empresas recuperadas se resolvía y que ya no era necesario la sanción de leyes de expropiación -->
 ·Which· ·yes· ·did· ·was· consolidarlo, ·giving· la ·print· a ·the legislators· ·and also· a ·workers who· ·with this· ·reform· ·the problem of· ·the recovered businesses· se resolvía ·and which· ·was no longer neccesary· ·the passage· ·expropriation laws·.
 
 <!-- ###La realidad muestra que, por el contrario, la precariedad jurídica ha aumentado. -->
